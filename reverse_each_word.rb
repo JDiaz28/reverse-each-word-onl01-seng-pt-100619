@@ -5,6 +5,6 @@
   end.join(" ")
 end
 
-def 
-
+def reverse_each_word(sentence2)
+ sentence2.split.collect do
 end
